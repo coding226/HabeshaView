@@ -1,0 +1,257 @@
+.btn.btn--form.btn--form-login.fa-gitlab {
+    display: none;
+}
+
+.thumbnail__logo img {
+    filter: grayscale(0%);
+    width: 250px;
+}
+
+.signup__thumbnail .thumbnail__logo {
+    margin: auto;
+}
+
+.btn--form-login {
+    padding: 12px 0;
+    font-size: 16px;
+    text-transform: none;
+    border-radius: .4rem;
+}
+
+.signup__link {
+    margin-top: 4px;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    font-weight: normal;
+    text-transform: none;color: #777;
+}
+
+.signup__form .form-group {
+    margin-bottom: 15px;
+}
+
+.hsignup {
+    border: 1px solid #333;
+    padding: 5px 0 10px;
+    margin-top: 40px;
+    padding: 10px 12px 14px;
+    border-radius: 5px;
+}
+
+
+
+.signup__form .form-control {
+background-color: transparent;
+border-top: 1px;
+border-top-color: #ccc;
+border-right: 1px;
+border-right-color: #ccc;
+border-left: 1px;
+border-left-color: #ccc;
+border-radius: 1px;
+font-size: 16px;
+padding-bottom: 17px;
+border-color:#CCC;
+}
+
+.signup__form label {
+    display: none;
+}
+
+.btn-play .play-btn-icon {
+    background-color: #E50914;
+margin-right: 0;
+}
+
+.imdb-ratings-block ul li, .casting-headers li {
+    color: #8197a4;
+}
+.full-movie-dtl-main-block .btn-play {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    background-color: #E50914;
+    padding-right: 20px;
+    min-width: 220px;
+}
+
+
+
+.home-out-section .btn-prime {
+    font-size: 20px;
+    background-color: #fc0;
+color:#000;
+}
+.loading-text {
+   top: 43%;
+   transform: translateY(-43%);
+}
+.footer-links-block li {
+    margin-bottom: 10px;
+    text-transform: none;
+}
+.subscribe-text {
+    letter-spacing: 0;
+    word-spacing: 2px;
+    color: rgba(255,255,255,0.5);
+}
+a.btn-sm-play, .des-in-list.des-btn-block a.btn-play, .protip-content .des-btn-block a.btn-play {
+    background-color: #E50914;
+    padding-right: 10px;
+    width: 100%;
+}
+.btn-sm-play:hover, .des-in-list.des-btn-block a.btn-play:hover, .protip-content .des-btn-block a.btn-play:hover {
+    background-color: #E50914;
+}
+.bg-black {
+    background-color: 
+    #000;
+    background-image: url('http://app.habeshaview.com/delet/public/images/streamacross_desktop_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.thumbnail__content.text-center h1 {
+    font-weight: 900;
+    letter-spacing: -0.4px;
+}
+
+.home-out-section .section-heading {
+    font-size: 60px;
+    font-weight: 900;
+    letter-spacing: -0.4px;
+}
+
+@media(min-width: 1400px) and (max-width: 2200px) {
+  .home-out-section {
+    padding: 173px 0;
+  }
+}
+.home-out-section .section-dtl {
+    font-size: 20px;
+    font-weight: 400;
+    opacity: .7;
+}
+li.sign-in-block.language-switch-block {
+    display: none;
+}
+
+.nav-logo {
+    width: 210px;
+}
+.genre-prime-slider.owl-carousel .owl-item img {
+    max-height: 292px !important;
+    height: 292px;
+    width: inherit;
+}
+.genre-slide-image {
+    margin-right: 17px;
+}
+.container-fluid.nav-container {
+    padding: 0 1.5%;
+    margin: 0!important;
+}
+@media (max-width: 767px){
+.nav-logo {
+    padding-top: 0;
+    width: 180px;
+    margin-top: -7px;
+    margin-bottom: -5px;
+}
+
+.footer-widgets.social-widgets.social-btns {
+    max-width: 200px;
+}
+
+.signup__thumbnail {
+    height: 220px;
+}
+.thumbnail__content.text-center h1 {
+    font-size: 30px;
+}
+
+.signup__container.container.sign-in-main-block {
+    padding: 10px 30px;
+}
+.signup__container {
+    margin-top: 10px;
+}
+.footer-logo {
+    margin-top: 0;
+    margin-bottom: 25px;
+    max-width: 180px;
+}
+
+.genre-prime-slider.owl-carousel .owl-item img {
+    max-height: 180px !important;
+    height: 180px;
+    width: inherit;
+}
+.login-panel-main-block ul {
+    padding-top: 3px;
+}
+}
+
+
+footer {
+    background-color: #000000;
+}
+#cssmenu > ul > li > a {
+    font-weight: 700;
+    padding-left: 28px;
+}
+.protip-content .movie-rating, .protip-content .main-des, .protip-content .description-heading, .protip-content .main-des p, .protip-content .description-list, .protip-content .main-des {
+    display: none;
+}
+
+.signup__link.pull-right {
+    border: 1px solid #333;
+    margin-top: 100px;
+    padding: 10px 12px 14px;
+    border-radius: 5px;
+    float: none !important;
+}
+
+.signup__link.pull-left {
+    float: none !important;
+}
+.signup__container {
+    margin-top: 40px;
+}
+.panel-setting-main-block .plan-dtl-heading {
+    font-size: 42px;
+    border-bottom: 1px solid 
+    #999;
+    font-weight: 700;
+}
+
+.plan-dtl-sub-heading {
+    margin-top: 30px;
+}
+@media (max-width: 576px){
+.signup__container {
+    margin-top: -40px;
+}
+
+.nav-logo img {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.navigation .sign-in-block {
+    margin-right: 5px;
+    float: right;
+}
+
+.prime-dropdown {
+    margin: 0 0 0 10px;
+}
+
+.genre-prime-block-one {
+    margin-top: 10px;
+}
+
+div#home-main-block {
+    margin-top: 90px !important;
+}
+}
